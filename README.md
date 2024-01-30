@@ -1,26 +1,7 @@
-# TODO List App
+# Vue 3 + Vite
 
-## Descrizione del Progetto
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-Questo progetto è un'applicazione TODO List progettata per aiutarti a gestire e organizzare le tue attività quotidiane in modo efficiente. L'app offre una serie di funzionalità utili per garantire una gestione completa delle attività.
+## Recommended IDE Setup
 
-## Funzionalità Principali
-
-1. **Aggiunta di Attività:**
-   - Gli utenti possono aggiungere nuove attività alla lista.
-
-2. **Categorie:**
-   - Gli utenti possono definire categorie personalizzate per organizzare le attività.
-   - Categorie predefinite includono: Lavoro, Personale, Casa, Salute, Studi, Social.
-
-3. **Assegnazione delle Attività alle Categorie:**
-   - Ogni attività può essere assegnata a una o più categorie.
-     - Esempio: Fare la spesa può essere assegnato alla categoria "Personale".
-
-## Come Iniziare
-
-1. **Clone il Repository:**
-   ```bash
-   git clone https://github.com/tuonomeutente/TodoListApp.git
-
-
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
